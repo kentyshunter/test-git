@@ -1,2 +1,2 @@
 # test-git
-a repo for testing Git &amp; GitHub
+A repo for testing Git &amp; GitHub
